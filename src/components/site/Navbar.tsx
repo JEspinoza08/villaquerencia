@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Menu, X, MessageCircle } from "lucide-react";
-import logo from "@/assets/logo.jpg";
+import logo from "@/assets/logo2.png";
 
 const links = [
   { href: "#beneficios", label: "Beneficios" },
