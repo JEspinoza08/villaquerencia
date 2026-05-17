@@ -1,5 +1,5 @@
 import { MessageCircle, CalendarHeart, Building2, ChevronDown } from "lucide-react";
-import hero from "@/assets/hero.jpg";
+import hero from "@/assets/optimizado/hero.webp";
 
 const WA = "https://wa.me/51999999999?text=Hola%20quiero%20cotizar%20Villa%20Querencia";
 

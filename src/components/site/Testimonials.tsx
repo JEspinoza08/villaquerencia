@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { ChevronLeft, ChevronRight, Quote } from "lucide-react";
-import t1 from "@/assets/t1.jpg";
-import t2 from "@/assets/t2.jpg";
-import t3 from "@/assets/t3.jpg";
+import t1 from "@/assets/optimizado/t1.webp";
+import t2 from "@/assets/optimizado/t2.webp";
+import t3 from "@/assets/optimizado/t3.webp";
 
 const data = [
   { img: t1, name: "Carlos M.", role: "Padre de familia", text: "Después de años alquilando, hoy mis hijos tienen su propio jardín. Villa Querencia hizo realidad lo que parecía imposible." },

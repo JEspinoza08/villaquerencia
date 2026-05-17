@@ -1,5 +1,5 @@
 import { Check } from "lucide-react";
-import about from "@/assets/about.jpg";
+import about from "@/assets/optimizado/about.webp";
 
 export function About() {
   return (

@@ -1,7 +1,7 @@
 import { MessageCircle, Ruler } from "lucide-react";
-import m1 from "@/assets/model1.jpg";
-import m2 from "@/assets/model2.jpg";
-import m3 from "@/assets/model3.jpg";
+import m1 from "@/assets/optimizado/model1.webp";
+import m2 from "@/assets/optimizado/model2.webp";
+import m3 from "@/assets/optimizado/model3.webp";
 
 const lots = [
   { img: m1, name: "Modelo Familia", size: "90 m²", price: "S/ 38,900", cuota: "S/ 390", tag: "Más vendido" },
